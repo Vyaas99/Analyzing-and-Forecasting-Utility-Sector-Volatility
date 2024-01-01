@@ -1,0 +1,3 @@
+Analyzing and Forecasting Utility Sector Volatility: A Case Study of PG&E's Financial Turbulence
+
+This project investigates the financial instability of PG&E, influenced by regulatory changes, environmental disasters, and market manipulation. Utilizing statistical models such as ARIMA and GARCH, the study aims to understand the causes of PG&E's stock volatility and develop accurate forecasting methods. The project will offer insights into the interplay of market forces, regulatory policies, and environmental factors in the utility sector, contributing to more informed investment and regulatory decisions.
